@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fb296e65-8188-462a-84be-6317c7fb9053" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/classes/Home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/classes/Register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/details.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/search_product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="255DAFleAjNI7zIWMaecziDTpqr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb296e65-8188-462a-84be-6317c7fb9053" name="Default Changelist" comment="" />
+      <created>1644807908528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644807908528</updated>
+      <workItem from="1644807909808" duration="4980000" />
+      <workItem from="1644813317967" duration="3166000" />
+      <workItem from="1644818497868" duration="1211000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1644816484777">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1644816484777" />
+    <state x="471" y="87" key="NewPhpClassDialog" timestamp="1644810129166">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1644810129166" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1644818556511">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1644818556511" />
+    <state x="503" y="66" key="RollbackChangesDialog" timestamp="1644815776745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="503" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1644815776745" />
+  </component>
+</project>
